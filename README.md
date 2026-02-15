@@ -53,6 +53,12 @@ Over 50 molecules across 11 categories:
 | **Oxidizers**      | KNO₃, KMnO₄                        |
 | **Polymers**       | Ethylene Glycol, Styrene           |
 
+
+### Screenshots
+<img width="1366" height="728" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/016b7133-c6b5-41a4-b393-e5a6f122fc09" />
+<img width="1366" height="731" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/fb70722b-2b6f-4fb5-b22e-b55ee3494e23" />
+
+
 ### Detailed Information Panels
 
 Click on any atom or molecule to see:
